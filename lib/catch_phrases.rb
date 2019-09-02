@@ -6,7 +6,7 @@ def mario
 end
 
 def toadstool
-  puts status
+  mario
 end
 
 phrase = "It's Dangerous To Go Alone! Take This."
