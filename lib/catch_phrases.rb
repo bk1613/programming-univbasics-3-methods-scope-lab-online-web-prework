@@ -15,6 +15,8 @@ def link
   puts phrase
 end
 
+phrase = ""
+
 def any_phase
   
 end
