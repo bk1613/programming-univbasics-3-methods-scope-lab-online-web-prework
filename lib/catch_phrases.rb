@@ -17,8 +17,9 @@ def link
   puts phrase
 end
 
-phrase = "Do A Barrel Roll!"
+
 
 def any_phase
+  phrase = "Do A Barrel Roll!"
   puts phrase
 end
