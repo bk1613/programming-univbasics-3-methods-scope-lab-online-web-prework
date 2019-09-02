@@ -18,5 +18,5 @@ end
 phrase = "Do A Barrel Roll!"
 
 def any_phase
-  
+  puts phrase
 end
